@@ -20,7 +20,8 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-C        18 mins         █████████████████▓░░░░░░░   71.10 % 
-Python   7 mins          ███████▒░░░░░░░░░░░░░░░░░   28.90 % 
+Python   23 mins         ████████████▒░░░░░░░░░░░░   49.22 % 
+C        18 mins         █████████▓░░░░░░░░░░░░░░░   39.12 % 
+Text     5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
 ```
 <!--END_SECTION:waka-->
